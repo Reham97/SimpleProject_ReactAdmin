@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "body": "body11",
+      "publishedAt": "2021-11-11"
+    },
+    {
+      "id": 2,
+      "body": "body2",
+      "publishedAt": "02-02-2021"
+    },
+    {
+      "id": 3,
+      "body": "body3",
+      "publishedAt": "03-03-2021"
+    },
+    {
+      "id": 4,
+      "body": "body4",
+      "publishedAt": "04-04-2021"
+    },
+    {
+      "id": 5,
+      "body": "body5",
+      "publishedAt": "05-05-2021"
+    },
+    {
+      "body": "body7",
+      "publishedAt": "2021-07-07",
+      "id": 6
+    },
+    {
+      "body": "body8",
+      "publishedAt": "2021-08-08",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "user1",
+      "maile": "user1@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "user2",
+      "maile": "user2@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "user3",
+      "maile": "user3@gmail.com"
+    }
+  ]
+}
